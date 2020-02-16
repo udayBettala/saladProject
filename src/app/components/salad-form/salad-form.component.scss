@@ -1,0 +1,22 @@
+#name {
+    width: calc(14% - 24px);
+    padding: 1%;
+    text-align: center;
+    color: black;;
+    background-color: #e6e6e6;
+    margin: 4px;
+    border-radius: 8px;
+    box-shadow: 2px 2px 1px 1px rgb(156, 223, 186);
+  }
+
+  .icon {
+    display: inherit;
+    height: 8px;
+    padding-left: 2px;
+    padding-bottom: 8px;
+    align-self: auto;
+ }
+#name:hover{
+    cursor: pointer;
+    background-color: #007bff;
+}
